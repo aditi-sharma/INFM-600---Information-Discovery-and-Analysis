@@ -20,23 +20,20 @@ The merged dataset (times_shanghai_mergedRankings.xlsx) has been created and rel
 
 The columns/fields considered for every record in the tables are as follows:
 timesData.csv:
-<code>world_rank - This indicates the world ranking of the university. This includes a rank range for some universities
+<code>
 
-university_name - This is the complete name of the University, with no acronyms.
-
-country - This indicates the country in which the university is located.
-
-research - This indicates a score on a scale of 100 for research (volume, income and reputation) done at the university
-
-citations - This indicates the score on a scale of 100 for research influence i.e. citations to the university
-international_students: This percentile indicates how many students in the university are international. </code>
+*world_rank - This indicates the world ranking of the university. This includes a rank range for some universities
+*university_name - This is the complete name of the University, with no acronyms.
+*country - This indicates the country in which the university is located.
+*research - This indicates a score on a scale of 100 for research (volume, income and reputation) done at the university
+*citations - This indicates the score on a scale of 100 for research influence i.e. citations to the university
+*international_students: This percentile indicates how many students in the university are international. </code>
 
 shanghaiData.csv:
-<code>world_rank - This indicates the world ranking of the university. This includes a rank range for some universities
 
-university_name - This is the complete name of the University, with no acronyms.
-
-award- This is a score on the scale of 100, that is calculated based on the number of staff of an university winning Nobel Prizes in Physics, Chemistry, Medicine, and Economics and Fields Medals in Mathematics.</code>
+*world_rank - This indicates the world ranking of the university. This includes a rank range for some universities
+*university_name - This is the complete name of the University, with no acronyms.
+*award- This is a score on the scale of 100, that is calculated based on the number of staff of an university winning Nobel Prizes in Physics, Chemistry, Medicine, and Economics and Fields Medals in Mathematics.</code>
 
 <b>Data analysis</b>
 
